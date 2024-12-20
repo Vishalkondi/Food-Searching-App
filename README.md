@@ -84,8 +84,8 @@ npm run build
 
 Upload the contents of the build/ directory to your hosting provider.
 
-Screenshots
-![Uploading Screenshot (29).png…]()
+Screenshots ![Screenshot (29)](https://github.com/user-attachments/assets/ed0f5ec0-3dd0-4bd3-b0e3-15fcd8a4bebd)
+
 
 
 
