@@ -26,6 +26,8 @@ Clone the repository:
 
 git clone https://github.com/Vishalkondi/Food-Searching-App.git
 cd Food-Searching-App
+Screenshots ![Screenshot (29)](https://github.com/user-attachments/assets/ed0f5ec0-3dd0-4bd3-b0e3-15fcd8a4bebd)
+
 
 Install dependencies:
 Ensure you have Node.js and npm installed. Run:
