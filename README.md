@@ -3,6 +3,7 @@ Food Searching App
 A React-based web application that allows users to search for food recipes using an API and displays the results dynamically. The app is styled using modern CSS techniques.
 
 Features
+![Uploading Screenshot (29).png…]()
 
 Search for food recipes by name.
 
